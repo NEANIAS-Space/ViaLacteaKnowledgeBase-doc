@@ -1,0 +1,9 @@
+Parameters,search,cutout,merge
+(l b) [deg],mand,mand,mand
+r or (dl db) [deg],mand,mand,mand
+(vl vu) [km/s],opt,opt,opt
+surveyname,opt,opt,mand
+species,opt,opt,mand
+transition,opt,opt,mand
+
+
