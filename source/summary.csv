@@ -1,9 +1,10 @@
-Parameters,search,cutout,merge
-(l b) [deg],mand,mand,mand
-r or (dl db) [deg],mand,mand,mand
-(vl vu) [km/s],opt,opt,opt
-surveyname,opt,opt,mand
-species,opt,opt,mand
-transition,opt,opt,mand
-
+Parameters,search,cutout,merge,Description
+(l b) [deg],mand,mand,mand,center point
+r or (dl db) [deg],mand,mand,mand,area: circle or rectangle
+(vl vu) [km/s],opt,opt,opt,velocity lower-upper bound
+pubdid,n/a,opt,mand,PublisherDID
+surveyname,opt,opt,mand,
+species,opt,opt,mand,
+transition,opt,opt,mand,
+nullvals,n/a,opt,n/a,undefined-pixel count
 
