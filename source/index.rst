@@ -12,3 +12,4 @@ Welcome to ViaLactea Knowledge Base's documentation!
 
    query_string
    summary
+   results
