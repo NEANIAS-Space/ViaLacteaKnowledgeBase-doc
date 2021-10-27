@@ -10,4 +10,5 @@ Welcome to ViaLactea Knowledge Base's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   query_string
    summary
