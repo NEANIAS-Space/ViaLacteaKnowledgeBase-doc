@@ -1,6 +1,9 @@
 Query String parameters
 =======================
 Service will parse URL's query string section for parameters. HTTP header fields are not observed.
+Note, that some parameter values might contain characters whith special
+meaning in client's environment. Follow the usual rules for encoding for your client.
+
 
 Circular search
 ---------------
