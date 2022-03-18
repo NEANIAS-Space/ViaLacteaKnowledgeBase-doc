@@ -3,8 +3,8 @@ Parameters,search,cutout,merge,Description
 r or (dl db) [deg],mand,mand,mand,area: circle or rectangle
 (vl vu) [km/s],opt,opt,opt,velocity lower-upper bound
 pubdid,n/a,mand,mand,PublisherDID
-surveyname,opt,opt,mand,
-species,opt,opt,mand,
-transition,opt,opt,mand,
+surveyname,opt,n/a,mand,
+species,opt,n/a,mand,
+transition,opt,n/a,mand,
 nullvals,n/a,opt,n/a,undefined-pixel count
 
